@@ -1,0 +1,6 @@
+markdown: rdiscount
+permalink: /:year/:month/:title/
+url: http://Argons.github.com
+author: Sol
+pygments: true
+paginate: 24
